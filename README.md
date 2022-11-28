@@ -1,4 +1,4 @@
-# [Paper Dashboard React](https://demos.creative-tim.com/paper-dashboard-react/#/dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fpaper-dashboard-react%2F%23%2Fdashboard&text=Paper%20Dashboard%20React%20by%20Creative%20Tim%20%7C%20Free%20React%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%2Fpaper-dashboard-react%2F&via=creativetim&hashtags=react%2Ccreativetim%2Cpaper%2Cdashboard%2Cbootstrap%2Creactstrap%2Creactjs)
+# [Beamafilm Analytical Dashboard React](https://demos.creative-tim.com/paper-dashboard-react/#/dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fpaper-dashboard-react%2F%23%2Fdashboard&text=Paper%20Dashboard%20React%20by%20Creative%20Tim%20%7C%20Free%20React%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%2Fpaper-dashboard-react%2F&via=creativetim&hashtags=react%2Ccreativetim%2Cpaper%2Cdashboard%2Cbootstrap%2Creactstrap%2Creactjs)
 
 
 
@@ -54,14 +54,15 @@ Paper Dashboard React is built using the same design language as [Paper Dashboar
 
 Quick start options:
 
-- `npm i paper-dashboard-react`
-- Clone the repo: `git clone https://github.com/creativetimofficial/paper-dashboard-react.git`.
-- [Download from Github](https://github.com/creativetimofficial/paper-dashboard-react/archive/master.zip).
-- [Download from Beamafilm](https://beamafilm.com/product/paper-dashboard-react).
+- Clone the repo: `git clone https://github.com/snj-adhikari/react-dashboard.git`.
+- [Download from Github](hhttps://github.com/snj-adhikari/react-dashboard/archive/master.zip).
+- `npm install`
+- `npm start`
+
 
 
 ## Documentation
-The documentation for the Paper Dashboard React is hosted at our [website](https://demos.creative-tim.com/paper-dashboard-react/#/documentation/tutorial).
+.. coming soon ... 
 
 
 ## File Structure
@@ -164,22 +165,6 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Useful Links
 
-More products from Beamafilm: <https://beamafilm.com/products>
+Beamaiflm: <https://beamafilm.com/>
 
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
-Freebies: <https://beamafilm.com/products>
-
-Affiliate Program (earn money): <https://beamafilm.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
