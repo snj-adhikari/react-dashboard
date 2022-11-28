@@ -56,6 +56,7 @@ Quick start options:
 
 - Clone the repo: `git clone https://github.com/snj-adhikari/react-dashboard.git`.
 - [Download from Github](hhttps://github.com/snj-adhikari/react-dashboard/archive/master.zip).
+- Recommended Node Version : `14.17.5`
 - `npm install`
 - `npm start`
 
